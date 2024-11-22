@@ -1,4 +1,4 @@
-![Screenshot (72)](https://github.com/user-attachments/assets/a7c5b673-3ccb-46c0-89ba-c91c2ab249d1)# Traffic_light_controller_Synthesis
+# Traffic_light_controller_Synthesis
 
 ## Aim:
 
